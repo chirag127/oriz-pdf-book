@@ -1,0 +1,10 @@
+{
+  "title": "Oriz PDF",
+  "subtitle": "From Browser to Native — PWA → PWABuilder → Play Store",
+  "author": "Chirag Singhal",
+  "language": "en",
+  "pricing": { "base": 14, "currency": "USD" },
+  "channels": {"leanpub": true, "gumroad": true, "lemonsqueezy": true, "kdp": true},
+  "manuscript": "./manuscript",
+  "outputs": { "epub": true, "pdf": true, "mobi": true, "markua": true }
+}
